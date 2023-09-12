@@ -1,1 +1,1 @@
-# Notes-Taker-Applicatiom
+# Notes-Taker-Application
